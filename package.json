@@ -1,0 +1,12 @@
+{
+  "id": "yamail",
+  "name": "YandexMail",
+  "version": "1.0.0",
+  "description": "Yandex Mail",
+  "main": "index.js",
+  "author": "mskonovalov <mskonovalov@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://mail.yandex.ru"
+  }
+}
